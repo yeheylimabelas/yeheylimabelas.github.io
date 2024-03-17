@@ -9,7 +9,7 @@ body {
   gap: 1rem;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 100dvh;
   background: #27272c;
   padding: 8% 0 8% 0;
 }
